@@ -41,7 +41,7 @@ Essas tecnologias funcionam bem juntas porque Next.js fornece a estrutura e a pe
 ##### 💻 Frontend:
 
 <p align="center"> 
-  <img alt="fpf-denis-raineri" src="frontend-fpf.jpeg" width="100%">
+  <img alt="/fpf-denis-raineri" src="frontend-fpf.jpeg" width="100%">
 </p>
 
 ## 📦 Instalação
@@ -73,7 +73,7 @@ by [**Denis Raineri**](https://www.linkedin.com/in/denis-pimentel-raineri-63a61b
 
 Optei por fazer o deploy do projeto na Vercel devido à sua integração nativa com o Next.js.
 
-Para visualizar o projeto em produção, acesse: []
+Para visualizar o projeto em produção, acesse: [https://fpf-denis-raineri.vercel.app]
 
 > **Nota**: Você pode utilizar outros gerenciadores de pacotes como `npm` ou `yarn` no lugar do `pnpm`, se preferir.
 
