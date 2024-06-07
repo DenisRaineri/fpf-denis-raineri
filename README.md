@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- TABLE OF CONTENTS -->
 
-## Getting Started
+## 🗂 Conteúdo
 
-First, run the development server:
+<!-- - 📝 [Tabela de Conteúdo](#-tabela-de-conteúdo) -->
+
+- 📋 [Projeto](#-projeto)
+  - 🚀 [Tecnologias](#-tecnologias)
+  - 📷 [Preview](#-preview)
+- 📦 [Instalação](#-instalação)
+
+<!-- ABOUT THE PROJECT -->
+
+## 💻 Projeto
+
+Este projeto foi baseado no wireframe do teste técnico para a vaga de desenvolvedor da Federação Paulista de Futebol. Seu propósito central é desenvolver uma interface responsiva a partir do wireframe proposto.
+
+Para este projeto selecionei as seguintes tecnologias: NextJs, Shadcn, Tailwind e Typescript.
+
+Next.js: Escolhi Next.js por sua capacidade de renderização do lado do servidor, que melhora a performance e o SEO da aplicação. Além disso, sua integração com React facilita a criação de interfaces de usuário dinâmicas e rápidas.
+
+shadcn: Utilizo shadcn pela sua flexibilidade e facilidade na criação de componentes estilizados, permitindo uma personalização rápida e eficiente sem sair do ecossistema do React.
+
+Tailwind CSS: Tailwind CSS por seu design utilitário, que agiliza o processo de estilização com classes prontas e personalizáveis, resultando em um CSS mais limpo e um desenvolvimento mais rápido.
+
+TypeScript: Optar por TypeScript traz benefícios como a detecção de erros em tempo de desenvolvimento, aumenta a produtividade e reduz bugs no código.
+
+Essas tecnologias funcionam bem juntas porque Next.js fornece a estrutura e a performance, shadcn e Tailwind CSS cuidam do estilo e da personalização, enquanto TypeScript garante a segurança e a qualidade do código, resultando em um desenvolvimento eficiente e uma aplicação robusta.
+
+### 🚀 Tecnologias
+
+- [React][react]
+- [TypeScript][typescript]
+- [Tailwind][tailwind]
+- [Shadcn/ui][shadcn/ui]
+- [Lucide][Lucide]
+- [NextJs][NextJs]
+
+## 📷 Preview
+
+##### 💻 Frontend:
+
+<p align="center"> 
+  <img alt="fpf-denis-raineri" src="frontend-fpf.jpeg" width="100%">
+</p>
+
+## 📦 Instalação
+
+Para clonar e executar está aplicação, você precisará do [Git](https://git-scm.com), [yarn][yarn] ou outros gerenciadores de pacotes, instalado no seu computador. No seu terminal rode:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Clonando o repositório
+$ git clone https://github.com/DenisRaineri/fpf-denis-raineri.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+# Instalando as dependências do projeto
+$ yarn
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+# Rodar Web
+$ yarn dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<!-- CONTACT -->
 
-## Learn More
+## 📫 Contato
 
-To learn more about Next.js, take a look at the following resources:
+by [**Denis Raineri**](https://www.linkedin.com/in/denis-pimentel-raineri-63a61b162/) 🚀
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎆 Deploy
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Optei por fazer o deploy do projeto na Vercel devido à sua integração nativa com o Next.js.
 
-## Deploy on Vercel
+Para visualizar o projeto em produção, acesse: []
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+> **Nota**: Você pode utilizar outros gerenciadores de pacotes como `npm` ou `yarn` no lugar do `pnpm`, se preferir.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[shadcn/ui]: https://ui.shadcn.com/
+[Lucide]: https://lucide.dev/
+[html]: https://www.w3schools.com/html/
+[react]: https://pt-br.reactjs.org
+[tailwind]: https://tailwindcss.com
+[prettier]: https://prettier.io
+[NextJs]: https://nextjs.org
+[eslint]: https://eslint.org
+[typescript]: https://www.typescriptlang.org/
