@@ -41,7 +41,7 @@ Essas tecnologias funcionam bem juntas porque Next.js fornece a estrutura e a pe
 ##### 💻 Frontend:
 
 <p align="center"> 
-  <img alt="/fpf-denis-raineri" src="frontend-fpf.jpeg" width="100%">
+  <img alt="/fpf-denis-raineri" src="/public/frontend-fpf.jpeg" width="100%">
 </p>
 
 ## 📦 Instalação
