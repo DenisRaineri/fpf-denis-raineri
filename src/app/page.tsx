@@ -43,7 +43,7 @@ export default function Home() {
         <div className="bg-blue-900 text-white p-4 rounded-t-md">
           <h2>Usuários</h2>
         </div>
-        <div className="bg-gray-100 p-4 grid md:grid-cols-2 gap-4 rounded-b-md">
+        <div className="bg-gray-100 p-4 grid xl:grid-cols-2 gap-4 rounded-b-md">
           {userMock.map((user) => (
             <UserCard key={user.id} data={user} />
           ))}
