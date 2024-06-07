@@ -8,6 +8,7 @@
   - 🚀 [Tecnologias](#-tecnologias)
   - 📷 [Preview](#-preview)
 - 📦 [Instalação](#-instalação)
+- 🎆 [Deploy](#-deploy)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -63,17 +64,19 @@ $ yarn
 $ yarn dev
 ```
 
-<!-- CONTACT -->
-
-## 📫 Contato
-
-by [**Denis Raineri**](https://www.linkedin.com/in/denis-pimentel-raineri-63a61b162/) 🚀
+<!-- DEPLOY -->
 
 ## 🎆 Deploy
 
 Optei por fazer o deploy do projeto na Vercel devido à sua integração nativa com o Next.js.
 
 Para visualizar o projeto em produção, acesse: [https://fpf-denis-raineri.vercel.app]
+
+<!-- CONTACT -->
+
+## 📫 Contato
+
+by [**Denis Raineri**](https://www.linkedin.com/in/denis-pimentel-raineri-63a61b162/) 🚀
 
 > **Nota**: Você pode utilizar outros gerenciadores de pacotes como `npm` ou `yarn` no lugar do `pnpm`, se preferir.
 
